@@ -1,0 +1,23 @@
+{
+  "name": "expressformen",
+  "version": "1.0.0",
+  "description": "A \"Hello, World!\" exercise using express/node.",
+  "main": "express-hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeBrose/NodeExercise-Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeBrose/NodeExercise-Express/issues"
+  },
+  "homepage": "https://github.com/JakeBrose/NodeExercise-Express#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
